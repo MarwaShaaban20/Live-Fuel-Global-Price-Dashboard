@@ -77,6 +77,14 @@ This project delivers a dynamic analysis of global fuel prices (Petrol, Diesel, 
 
 ## Screenshots
 
+<img width="1287" height="846" alt="Screenshot (954)" src="https://github.com/user-attachments/assets/a55d0d4a-dac2-4b9c-8d2f-57bae61504ce" />
+<img width="1160" height="880" alt="Screenshot (951)" src="https://github.com/user-attachments/assets/61dcd52d-9e6c-4957-80ab-9c15bb8c8067" />
+<img width="1175" height="852" alt="Screenshot (952)" src="https://github.com/user-attachments/assets/9a3b7297-bf30-451d-815b-42b80e17179d" />
+<img width="1176" height="857" alt="Screenshot (953)" src="https://github.com/user-attachments/assets/a65e4ff1-a2b2-46b0-ac3a-6b70cf2beaa0" />
+
+
+
+
 
 ---
 
