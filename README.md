@@ -71,7 +71,7 @@ This project delivers a dynamic analysis of global fuel prices (Petrol, Diesel, 
   [https://fuelglobalprice2020to2026.streamlit.app/](https://fuelglobalprice2020to2026.streamlit.app/)
 
 *  Power BI Dashboard:
-  [https://app.powerbi.com/view?r=eyJrIjoiMmVkMTY1ZjAtNTg2Yy00M2JhLTlhZDUtNjY1YTU0ODU0ODk0IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=9b0f933c3c37dc9a09ad](https://app.powerbi.com/view?r=eyJrIjoiMmVkMTY1ZjAtNTg2Yy00M2JhLTlhZDUtNjY1YTU0ODU0ODk0IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=9b0f933c3c37dc9a09ad)
+  https://app.powerbi.com/view?r=eyJrIjoiMmVkMTY1ZjAtNTg2Yy00M2JhLTlhZDUtNjY1YTU0ODU0ODk0IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=9b0f933c3c37dc9a09ad
 
 ---
 
